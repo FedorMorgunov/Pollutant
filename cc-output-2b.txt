@@ -1,0 +1,1 @@
+Connected Component 223, number of pixels = 152
